@@ -26,14 +26,14 @@ Everything runs in a single HTML file you can double-click.
 If you enable **GitHub Pages** on this repo (Settings → Pages → Branch: `main` → `/root`), the dashboard is instantly hosted at:
 
 ```
-https://<your-username>.github.io/<repo-name>/cse_job_market_dashboard.html
+https://github.com/Ahnaf-Shahadat-Taseen/Bangladesh-CSE-IT-Job-Market-Analysis/blob/main/cse_job_market_dashboard.html
 ```
 
 Or just clone and open locally:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+https://github.com/Ahnaf-Shahadat-Taseen/Bangladesh-CSE-IT-Job-Market-Analysis.git
+cd <Bangladesh-CSE-IT-Job-Market-Analysis>
 open cse_job_market_dashboard.html      # macOS
 start cse_job_market_dashboard.html     # Windows
 xdg-open cse_job_market_dashboard.html  # Linux
